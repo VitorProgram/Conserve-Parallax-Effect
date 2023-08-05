@@ -142,3 +142,20 @@ section #text span {
     background: #ffa000;
     color: #fff;
 }
+
+/* SEC */
+.sec {
+    position: relative;
+    padding: 10rem;
+    background: #094b65;
+    color: #fff;
+}
+
+.sec h2 {
+    font-size: 5.6rem;
+    margin-bottom: 1rem;
+}
+
+.sec p {
+    font-size: 1.6rem;
+}
